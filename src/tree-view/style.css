@@ -1,0 +1,16 @@
+.main-container{
+  background-color: rgb(83, 204, 194);
+  height: 100vh;
+  width: 600px;
+}
+.block{
+  display: flex;
+  align-items: center;
+  height: 30px;
+  width: 30px;
+  font-size: 19px;
+  gap: 10px;
+}
+.icon{
+  margin-top: 7px;
+}

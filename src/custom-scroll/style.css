@@ -1,0 +1,20 @@
+.top-container{
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #000000;
+}
+
+.upperScroll{
+  width: 100%;
+  height: 10px;
+  width: 100%;
+  background: green;
+}
+
+.current-progress-bar{
+  background: yellow;
+  height: 10px;
+}

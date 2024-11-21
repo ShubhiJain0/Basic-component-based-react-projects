@@ -1,0 +1,19 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.row{
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.square{
+  width: 110px;
+  height: 110px;
+}
